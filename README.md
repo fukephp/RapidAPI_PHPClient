@@ -1,2 +1,2 @@
-# RapidAPI_PHPClient
-Easy build php client for any free rapid API
+# Rapid API PHPClient
+Easy build PHP client for any free rapid API.
