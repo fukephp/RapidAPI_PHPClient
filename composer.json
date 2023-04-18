@@ -26,7 +26,7 @@
         "archtechx/enums": "^0.3.2",
         "composer/class-map-generator": "^1.0",
         "doctrine/dbal": "^2.6 || ^3",
-        "illuminate/http": "^9.0|^10.0",
+        "illuminate/http": "^9.0 || ^10.0",
         "illuminate/console": "^8 || ^9 || ^10",
         "illuminate/filesystem": "^8 || ^9 || ^10",
         "guzzlehttp/guzzle": "^7.2"
